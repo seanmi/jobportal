@@ -1,5 +1,15 @@
 {
     "require": {
-        "illuminate/database": "^5.5"
+        "illuminate/database": "^5.5",
+        "league/plates": "^3.3"
+    },
+    "autoload": {
+ 
+        "classmap": [
+  
+            "classes"
+  
+        ]
+  
     }
 }
